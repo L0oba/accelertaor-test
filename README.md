@@ -1,3 +1,0 @@
-# accelertaor-test
-
-test
