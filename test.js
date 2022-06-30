@@ -18,4 +18,5 @@ laSensor.addEventListener('reading', e => {
 	let box = document.getElementById('box2');
 	box.style.left = (laSensor.x * 100) + 'px';
 	box.style.top = (laSensor.y * 100) + 'px';
-  });
+});
+laSensor.start();
